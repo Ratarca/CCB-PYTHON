@@ -2,8 +2,9 @@
 Python fundamentals course
 
 # Summary
-|Macro|Micro|Class|Script|Exercise|Status|
-|-----|-----|------|--------|------|
+
+| Macro  | Micro | Class  | Script |Exercise |Status |
+| ------------- | ------------- |-------------  | ------------- |------------- | ------------- |
 |Base computer|topic|:link:|:x:|:x:|:x:|
 |Fundamentals|topic|:link:|:x:|:x:|:x:|
 |OOP|topic|:link:|:x:|:x:|:x:|
@@ -20,7 +21,7 @@ Python fundamentals course
 |Project|topic|:link:|:x:|:x:|:x:|
 
 # Roadmap
-[!Roadmap](/Python - CCB.png)
+[!Roadmap](Python - CCB.png)
 
 
 
