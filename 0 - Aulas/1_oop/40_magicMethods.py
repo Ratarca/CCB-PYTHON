@@ -1,0 +1,5 @@
+"""
+    Magic Methods
+
+
+"""
