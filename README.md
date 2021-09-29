@@ -21,7 +21,7 @@ Python fundamentals course
 |Project|topic|:link:|:x:|:x:|:x:|
 
 # Roadmap
-[!Roadmap](Python - CCB.png)
+![Roadmap](roadmap.png)
 
 
 

@@ -1,0 +1,8 @@
+"""
+    Syntax
+
+# Optional
+# Args
+# Kwargs
+
+"""
