@@ -5,16 +5,17 @@ for val in iterator:
     #Do something
 """
 
-names = ['Rafael','Isac','Elisabeth', 'Gabis']
+env = ['Florest','Lake','Desert', 'Swamp']
 
-for v in names:
+print("\n Example 1")
+for v in env:
     print(f'Welcome {v}')
 
-
-for idx,val in enumerate(names):
+print("\n Example 2")
+for idx,val in enumerate(env):
     print(idx, val)
 
-
-for idx,val in enumerate(names):
-    for idx2,val2 in enumerate(names):
-        print(idx, idx2)
+print("\n Example 3")
+for idx,val in enumerate(env):
+    for idx2,val2 in enumerate(env):
+        print(idx, idx2, val , val2)

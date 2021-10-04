@@ -1,5 +1,5 @@
 """
     Magic Methods
 
-
+dir(object)
 """

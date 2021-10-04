@@ -16,7 +16,7 @@ number = 3.14159265359
 print(force_round(number))
 
 # EX 2
-trafic_attorney = lambda velocity : True if velocity > 50 else False
+check_life = lambda life : True if life > 0 else False
 
 # EX 3 
 f = lambda x: 1 if x>0 else 0 if x ==0 else -1

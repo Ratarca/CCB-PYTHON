@@ -8,8 +8,21 @@ def nameFunction(*params):
 
 """
 
-def sum_two_element(valA:int, valB:int) -> int:
+# Syntax
+def sum_vals(valA: int, valB:int) -> int:
+    return valA + valB
+
+def show_msg(msg:str, repet:int = 1) -> None:
     """
     This function sum two elements.
     """
-    return valA + valB
+    for idx in range(repet):
+        print(msg)
+
+# Scope
+name = "RATARCA"
+otherName = "KRATOS"
+
+def show_name(name:str):
+    otherName = "CLEITON"
+    return [name, otherName]

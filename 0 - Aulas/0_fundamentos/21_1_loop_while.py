@@ -10,4 +10,3 @@ names = ['Rafael','Isac','Elisabeth', 'Gabis','Turing','Bohr','Werdum','Miocic',
 while counter < 4:
     print(names[counter])
     counter += 1
-

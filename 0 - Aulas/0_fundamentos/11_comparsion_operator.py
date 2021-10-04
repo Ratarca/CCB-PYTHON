@@ -7,15 +7,9 @@
 
 """
 
-minAge = 18
-age = input("What's your age?")
+maxWeight = 50
+weight = input("What's your weight?")
 
-print("Access party")
-print(int(age) > minAge)
-print(int(age) >= minAge)
-
-#####
-
-floorWage = 1000
-income = 1500
-print(floorWage <= income)
+print("Check weight")
+print(int(weight) > maxWeight)
+print(int(weight) >= weight)

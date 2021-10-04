@@ -4,5 +4,6 @@
     Long Comment
 """
 
-text = input("Give-me a text: \n")
-print(text)
+name = input("Give-me your name: \n")
+
+print(f"Hello {name}")

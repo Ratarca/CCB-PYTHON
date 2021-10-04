@@ -26,26 +26,26 @@ else:
 
 """
 
-savings = 18000
-priceCar = 20000
-priceMotorCycle = 5000
+savings = 18
+priceKnife = 20
+priceWater = 5
 
 # EX1
-if savings >= priceCar:
+if savings >= priceKnife:
     print('I buy one car!')
-    print("Now i've {}",(savings - priceCar))
+    print("Now i've {}",(savings - priceKnife))
 
 # EX2
-if savings >= priceCar:
-    print('I buy one car!')
-    print("Now i've {}",(savings - priceCar))
+if savings >= priceKnife:
+    print('I buy one Knige!')
+    print("Now i've ${}",(savings - priceKnife))
 else:
-    print("I can't buy a car")
+    print("I can't buy a knife")
 
 # EX3
-if savings >= priceCar:
-    print('I buy a car!')
-elif savings >= priceMotorCycle:
-    print('I buy a motorcycle')
+if savings >= priceKnife:
+    print('I buy aknife!')
+elif savings >= priceWater:
+    print('I buy water')
 else:
-    print('I print nothing : Y_Y ')
+    print('I buyed nothing : Y_Y ')
