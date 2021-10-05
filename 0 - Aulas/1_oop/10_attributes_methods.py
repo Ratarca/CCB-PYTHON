@@ -5,7 +5,7 @@
 """
 
 class Scout():
-    clas_att = '1'
+    bag = ['Pot','Knife','Rope']
     
     def __init__(self, name, sex, weight):
         self.name = name
@@ -42,10 +42,10 @@ class Scout():
     # https://stackoverflow.com/questions/12179271/meaning-of-classmethod-and-staticmethod-for-beginner
     @staticmethod
     def make_fire():
-        pass
+        print("Make fire")
 
     @classmethod
-    def build_tend(cls):
+    def rope(cls):
         pass
 
 
