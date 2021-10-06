@@ -6,20 +6,15 @@
 # Human > scout > hunter/explorer || scientist || engineer
 # Human > Employee
 
-class Scout():
-    def __init__(self, name):
-        self.name = name
-
-    def NOTHING(self):
-        return 1
+class M1():
+    pass
 
     
+class M2_0(M1):
+    pass
 
-class Hunter(Scout):
-    def __init__(self,name, att2):
-        super().__init__(name)
-        self.att2 = att2
+class M2_1(M2_0):
+    pass
 
-dx = Hunter(1,2)
-print(dx.name, dx.att2)
-print(dx.NOTHING())
+class M3(M1):
+    pass
