@@ -1,5 +1,7 @@
 """
 # Inheritance : Extends ... is a
+# mro
+
 # Composition : Has a
 """
 
