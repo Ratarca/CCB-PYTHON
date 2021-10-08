@@ -25,5 +25,3 @@ infinityObject = infinity()
 
 print(genList)
 print(infinityObject)
-
-## Batch files

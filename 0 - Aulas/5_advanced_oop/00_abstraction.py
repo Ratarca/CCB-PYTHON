@@ -1,12 +1,29 @@
-from abc import ABC, abstractmethod
+from abc import ABCMeta, abstractmethod
+from typing import Any
 
-class CLASS_ONE(metaclass = ABC):
-    def __init__(self, id, name):
-        self.id = id
-        self.name = name
+class IEarthAnimal(metaclass = ABC):
 
     @abstractmethod
-    def OPTION_PRICE(self):
+    def speak(self):
+        """
+            Comments
+        """
+        pass
+
+    @abstractmethod
+    def walk(self):
+        """
+            Comments
+        """
         pass
 
 # implements
+def Wolf(IEarthAnimal):
+    def __init__(self,name:str):
+        self.name = name
+
+    def speak(self):
+        print("AU AU")
+    
+    def walk(self):
+        print("WALKING")
