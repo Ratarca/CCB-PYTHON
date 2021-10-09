@@ -6,6 +6,7 @@ nameFunction = lambda x : x
 
 # Using if and else
 # Nested if
+# map / filter / reduce
 
 """
 

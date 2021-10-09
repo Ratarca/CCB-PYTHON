@@ -27,7 +27,7 @@ with open(filePath() + "\\fileTwo.csv", 'w' ,encoding='UTF-8') as fp:
     data = [ list(createData().values()) for x in range(10)]
     writer.writerows( data )
 
-# Write by dict
+# Write by dict (MOST INDICATE!)
 with open(filePath() + "\\fileThree.csv", 'w' ,encoding='UTF8', newline='') as fp:
     writer = csv.DictWriter(fp,fieldnames=['ID','LIFE'])
 
