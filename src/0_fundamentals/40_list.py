@@ -3,11 +3,11 @@
 myList = [element1, ...., elementN]
 
     #Methods
-- append : 
-- extends:
-- insert :
-- pop    :
-- sort   :
+- append : Add item (-1 index)
+- extends: Extend list
+- insert : Inser item on position
+- pop    : Remove item by index : default is -1
+- sort   : Order
 
 """
 cars = ['GT86', 'Impreza','Civic','Gol','Astra','Fusca']

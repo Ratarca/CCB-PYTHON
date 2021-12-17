@@ -16,16 +16,18 @@ assetsA = {"ITUB4","PETR4","VALE3"}
 assetsB = {"BPAC11", "VALE3","MODL11"}
 
 
+
 assetsC = assetsA.union(assetsB)
 assetsD = assetsA.difference(assetsB)
 assetsE = assetsA.intersection(assetsB)
 assetsF = assetsA.intersection_update(assetsB)
 
 wallet = [assetsA, assetsB, assetsC, assetsD, assetsE, assetsF]
-for asset in wallet:
-    print(asset,'\n')
 
+for idx, asset in enumerate(wallet):
+    print(f"Wallet {idx}: {asset}",'\n')
 
-print(assetsA.add("WEGE3"))
-print(assetsB.discard("MOLD11"))
+assetsA.add("WEGE3")
+assetsB.discard("MOLD11")
+print(assetsA)
 

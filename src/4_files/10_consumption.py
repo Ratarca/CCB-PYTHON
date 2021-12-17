@@ -37,3 +37,5 @@ def batch(data, chunk_size=10000):
     except StopIteration:
         if len(_batch):
             yield _batch
+
+# You can use pandas too!

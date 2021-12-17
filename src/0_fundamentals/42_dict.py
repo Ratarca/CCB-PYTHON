@@ -6,14 +6,15 @@ myDict = {"key0":value0, ...., "keyN":valueN}
     myDict["keyN"]
 
     #Methods
-- items() : 
-- keys()  : 
-- values():
-- update():
-- pop()   :
+- items() : Check dict with idx anda val
+- keys()  : Show all keys (list)
+- values(): Show all values (list)
+- update(): Add new item on dict
+- pop()   : Remove item by key value
 
-# Extends
-
+# Extends operators : 
+{*dict1, ... , *dictN}
+dict1 | ... | dictN
 """
 cars = {'GT86':100, 'Impreza':200,
         'Civic':300,'Gol':400,

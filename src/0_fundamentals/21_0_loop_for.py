@@ -5,7 +5,7 @@ for val in iterator:
     #Do something
 """
 
-env = ['Florest','Lake','Desert', 'Swamp']
+env = ['EQUITY_RESEARCH','DATA_SCIENCE','RISK']
 
 print("\n Example 1")
 for v in env:

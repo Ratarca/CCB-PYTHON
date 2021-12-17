@@ -3,7 +3,6 @@
 
 ---
 """
-
 class Scout():
     bag = ['Pot','Knife','Rope']
     

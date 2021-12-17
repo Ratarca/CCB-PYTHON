@@ -9,7 +9,7 @@ def external_func(*param):
     # Can return internal_func
 
 """
-# EX
+# EX 1
 def welcome(name)->str:
 
     def upper_txt(text:str)->str:
