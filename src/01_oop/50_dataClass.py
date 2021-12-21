@@ -31,7 +31,6 @@ class ComptonPosition:
     lat:int = 15
     lon:int = 33
 
-
 ## Optimize class
 """
 https://docs.python.org/3/reference/datamodel.html#slots

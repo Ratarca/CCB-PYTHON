@@ -23,5 +23,4 @@ fenix = Flashlight()
 ratarca = Scout("Ratarca",fenix)
 print( ratarca.light('MONKEY') )
 
-
 # TIP : Dependency Inversion Principle

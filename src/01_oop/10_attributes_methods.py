@@ -47,6 +47,5 @@ class Scout():
     def rope(cls):
         pass
 
-
 ratarca = Scout("Ratarca","M",95)
 ratarca.swimming()

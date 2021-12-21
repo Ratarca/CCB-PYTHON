@@ -1,7 +1,7 @@
 from abc import ABCMeta, abstractmethod
 from typing import Any
 
-class IEarthAnimal(metaclass = ABC):
+class IEarthAnimal(metaclass = ABCMeta):
 
     @abstractmethod
     def speak(self):
