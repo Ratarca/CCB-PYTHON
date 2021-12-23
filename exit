@@ -1,0 +1,167 @@
+[33mcommit b79fe38d1ea48a545420931dde33817a7da5d88f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Tue Dec 21 18:53:12 2021 -0300
+
+    new struct project
+
+[33mcommit 70b108d9b81eb2fb093eb1625bc0f441ace560a0[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Tue Dec 21 18:34:05 2021 -0300
+
+    💥
+
+[33mcommit 334e5336fe89daa1005879bca600b8160a50328e[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Fri Dec 17 12:56:32 2021 -0300
+
+    ✨
+
+[33mcommit 17e33a8a092e133419658440060bf01f852f1614[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Mon Oct 18 21:00:02 2021 -0300
+
+    🔥
+
+[33mcommit 9b412c3098c831780318ce7d8d5bb5701ac0bedc[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Sun Oct 10 21:12:09 2021 -0300
+
+    🍻
+
+[33mcommit e5daabac93d67e1a6488fc44fdbc1afb7c54c262[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Sun Oct 10 11:49:43 2021 -0300
+
+    🍻
+
+[33mcommit 278873138717e328725afdf0524d2ddc55041f1a[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Sat Oct 9 17:57:46 2021 -0300
+
+    🚧
+
+[33mcommit 424b7e7800ece5083ee8dc881212b0e7806678fe[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Sat Oct 9 17:36:12 2021 -0300
+
+    🚧
+
+[33mcommit 3739a7a47ef1e3fba76278e633d0563536bb4f06[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Fri Oct 8 12:15:46 2021 -0300
+
+    🍻
+
+[33mcommit 6d72c1904b6926b7c5954f6b952aca0703cac006[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Fri Oct 8 11:09:50 2021 -0300
+
+    🍻
+
+[33mcommit 74a316f07e43b377d50050bdb7fbb0242f489b16[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Fri Oct 8 09:41:47 2021 -0300
+
+    🚧
+
+[33mcommit 7b432c3b3746dd1e1b798fe119c965559f71341e[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Thu Oct 7 22:20:06 2021 -0300
+
+    🚧
+
+[33mcommit a6f08d56684cd2fe7258556f94d1bf9fd1f7092e[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Thu Oct 7 22:08:30 2021 -0300
+
+    🚧
+
+[33mcommit 84e6ae4439704560ba3aa62069184e19d3964fc9[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Thu Oct 7 19:28:33 2021 -0300
+
+    🚧
+
+[33mcommit e14ba1ec51643c7ee886e5d82e58a16880452ea0[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Oct 6 14:59:39 2021 -0300
+
+    🚑
+
+[33mcommit 1aaa120011094557101b1a3ac96ba09c619530c1[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Tue Oct 5 08:39:23 2021 -0300
+
+    🚧
+
+[33mcommit b26806b46eb358de7736527ff9a48d46bcf82f86[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Mon Oct 4 15:33:18 2021 -0300
+
+    🚧
+
+[33mcommit 5b8d9d5dd2af341ff708d63de442849c93f3b5d4[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Mon Oct 4 14:42:29 2021 -0300
+
+    🚧
+
+[33mcommit a049fee756f1a7f125507cb18596acd3b88e2acf[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 17:09:56 2021 -0300
+
+    🚧
+
+[33mcommit 74981cfddec64f29d8d6d891f3bf227b5030cc7f[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 16:49:36 2021 -0300
+
+    📝 Readme
+
+[33mcommit 878bef2bfa144783ff60724e339fbe3d2f7cd9b4[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 16:43:33 2021 -0300
+
+    🚧 Class and Documentations
+
+[33mcommit 402bd65bfc34abcfcb685365b63e0cd575a72e95[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 16:27:50 2021 -0300
+
+    🚧 Func, tuple, dict, list, set
+
+[33mcommit ba22b3b509d6fa669c4868914a2ddd94e4e4c720[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 15:31:33 2021 -0300
+
+    🚧  Operator, Decision,Rep, Func
+
+[33mcommit 9ea1ea940508c7529d8880381ea2cb5699529600[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 12:47:38 2021 -0300
+
+    🚧
+
+[33mcommit 83d5f31dbf9b35743b9ae15843ce8bce9da90dee[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 12:38:33 2021 -0300
+
+    🚧
+
+[33mcommit 7a02e09fcdacfe86614b15251859eae1539c40ad[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 12:33:09 2021 -0300
+
+    🐛
+
+[33mcommit 5782a0c84cf4394d96af0bef24751fd947719b5c[m
+Author: Ratarca <ratarca.rtc@gmail.com>
+Date:   Wed Sep 29 12:00:14 2021 -0300
+
+    Initialize project
+
+[33mcommit 8a3b249397ac39a5a5205eabb88f40b001452abe[m
+Author: Rafael Targino <49496719+Ratarca@users.noreply.github.com>
+Date:   Wed Sep 29 11:33:12 2021 -0300
+
+    Initial commit
