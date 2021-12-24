@@ -7,38 +7,38 @@ Python fundamentals course
 | ------------- | ------------- |-------------  | ------------- |------------- | ------------- |
 |Base computer|Basic to programming|:link:|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|input and output|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|Type variables|:link:|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|Operators|:link:|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|Decision Struct|:link:|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|Loop Struct|:link:|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|Functions|:link:|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|Collections|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Theory and syntax|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Attributes and Methods|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Inheritance|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Composition|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Polymorphism|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Magic Methods|:link:|:heavy_check_mark:|:x:|:x:|
-|OOP|Data Class|:link:|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|Type variables|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|Operators|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|Decision Struct|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|Loop Struct|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|Functions|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|Collections|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
+|OOP|Theory and syntax|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
+|OOP|Attributes and Methods|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
+|OOP|Inheritance|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
+|OOP|Composition|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
+|OOP|Polymorphism|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
+|OOP|Magic Methods|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
+|OOP|Data Class|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/01_oop)|:heavy_check_mark:|:x:|:x:|
 |Packages|Pip and Tips|:link:|:heavy_check_mark:|:x:|:x:|
 |Packages|Build project|:link:|:heavy_check_mark:|:x:|:x:|
-|Iterator|Generator|:link:|:heavy_check_mark:|:x:|:x:|
-|Iterator|Yield|:link:|:heavy_check_mark:|:x:|:x:|
-|Decorator|Decorator|:link:|:heavy_check_mark:|:x:|:x:|
-|Files|Generate|:link:|:heavy_check_mark:|:x:|:x:|
-|Files|Consumption|:link:|:heavy_check_mark:|:x:|:x:|
-|Advanced OOP|Abstration|:link:|:heavy_check_mark:|:x:|:x:|
-|Advanced OOP|Dependency Inversion principle (DiP)|:link:|:heavy_check_mark:|:x:|:x:|
-|Tests|Unit tests|:link:|:heavy_check_mark:|:x:|:x:|
-|Tests|About mark, fixture and tips|:link:|:heavy_check_mark:|:x:|:x:|
-|Tests|Theory|:link:|:heavy_check_mark:|:x:|:x:|
-|Tests|Advanced|:link:|:heavy_check_mark:|:x:|:x:|
-|Tests|CI-CD|:link:|:x:|:x:|:x:|
-|Hype Libs|Pandas|:link:|:heavy_check_mark:|:x:|:x:|
-|Hype Libs|Seaborn|:link:|:heavy_check_mark:|:x:|:x:|
-|Hype Libs|Numpy|:link:|:heavy_check_mark:|:x:|:x:|
-|Hype Libs|PySpark|:link:|:x:|:x:|:x:|
-|Hype Libs|PyCaret|:link:|:x:|:x:|:x:|
+|Iterator|Generator|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/03_iterator_decorators)|:heavy_check_mark:|:x:|:x:|
+|Iterator|Yield|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/03_iterator_decorators)|:heavy_check_mark:|:x:|:x:|
+|Decorator|Decorator|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/03_iterator_decorators)|:heavy_check_mark:|:x:|:x:|
+|Files|Generate|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/04_files)|:heavy_check_mark:|:x:|:x:|
+|Files|Consumption|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/04_files)|:heavy_check_mark:|:x:|:x:|
+|Advanced OOP|Abstration|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/05_advanced_oop)|:heavy_check_mark:|:x:|:x:|
+|Advanced OOP|Dependency Inversion principle (DiP)|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/05_advanced_oop)|:heavy_check_mark:|:x:|:x:|
+|Tests|Unit tests|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
+|Tests|About mark, fixture and tips|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
+|Tests|Theory|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD):heavy_check_mark:|:x:|:x:|
+|Tests|Advanced|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
+|Tests|CI-CD|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:x:|:x:|:x:|
+|Hype Libs|Pandas|[:link:](https://github.com/Ratarca/CCB-PYTHON-DS)|:heavy_check_mark:|:x:|:x:|
+|Hype Libs|Seaborn|[:link:](https://github.com/Ratarca/CCB-PYTHON-DS)|:heavy_check_mark:|:x:|:x:|
+|Hype Libs|Numpy|[:link:](https://github.com/Ratarca/CCB-PYTHON-DS)|:heavy_check_mark:|:x:|:x:|
+|Hype Libs|PySpark|[:link:](https://github.com/Ratarca/CCB-PYTHON-DS)|:x:|:x:|:x:|
+|Hype Libs|PyCaret|[:link:](https://github.com/Ratarca/CCB-PYTHON-DS)|:x:|:x:|:x:|
 |Clean code|How to struct your code|:link:|:heavy_check_mark:|:x:|:x:|
 |Clean code|Docstrings and typing|:link:|:heavy_check_mark:|:x:|:x:|
 |Clean code|Error handling|:link:|:heavy_check_mark:|:x:|:x:|
