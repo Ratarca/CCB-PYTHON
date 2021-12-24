@@ -6,7 +6,7 @@ Python fundamentals course
 | Macro  | Micro | Class  | Script |Exercise |Status |
 | ------------- | ------------- |-------------  | ------------- |------------- | ------------- |
 |Base computer|Basic to programming|:link:|:heavy_check_mark:|:x:|:x:|
-|Fundamentals|input and output|:link:|:heavy_check_mark:|:x:|:x:|
+|Fundamentals|input and output|:link:(https://github.com/Ratarca/CCB-PYTHON/tree/main/src/00_fundamentals)|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|Type variables|:link:|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|Operators|:link:|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|Decision Struct|:link:|:heavy_check_mark:|:x:|:x:|
