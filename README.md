@@ -31,7 +31,7 @@ Python fundamentals course
 |Advanced OOP|Dependency Inversion principle (DiP)|[:link:](https://github.com/Ratarca/CCB-PYTHON/tree/main/src/05_advanced_oop)|:heavy_check_mark:|:x:|:x:|
 |Tests|Unit tests|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
 |Tests|About mark, fixture and tips|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
-|Tests|Theory|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD):heavy_check_mark:|:x:|:x:|
+|Tests|Theory|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
 |Tests|Advanced|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:heavy_check_mark:|:x:|:x:|
 |Tests|CI-CD|[:link:](https://github.com/Ratarca/CCB-PYTHON-TDD)|:x:|:x:|:x:|
 |Hype Libs|Pandas|[:link:](https://github.com/Ratarca/CCB-PYTHON-DS)|:heavy_check_mark:|:x:|:x:|
