@@ -5,7 +5,7 @@ Python fundamentals course
 
 | Macro  | Micro | Class  | Script |Exercise |Status |
 | ------------- | ------------- |-------------  | ------------- |------------- | ------------- |
-|Base computer|topic|:link:|:heavy_check_mark:|:x:|:x:|
+|Base computer|Basic to programming|:link:|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|input and output|:link:|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|Type variables|:link:|:heavy_check_mark:|:x:|:x:|
 |Fundamentals|Operators|:link:|:heavy_check_mark:|:x:|:x:|
@@ -20,8 +20,8 @@ Python fundamentals course
 |OOP|Polymorphism|:link:|:heavy_check_mark:|:x:|:x:|
 |OOP|Magic Methods|:link:|:heavy_check_mark:|:x:|:x:|
 |OOP|Data Class|:link:|:heavy_check_mark:|:x:|:x:|
-|Packages|Pip and Tips|:link:|:x:|:x:|:x:|
-|Packages|Build project|:link:|:x:|:x:|:x:|
+|Packages|Pip and Tips|:link:|:heavy_check_mark:|:x:|:x:|
+|Packages|Build project|:link:|:heavy_check_mark:|:x:|:x:|
 |Iterator|Generator|:link:|:heavy_check_mark:|:x:|:x:|
 |Iterator|Yield|:link:|:heavy_check_mark:|:x:|:x:|
 |Decorator|Decorator|:link:|:heavy_check_mark:|:x:|:x:|
@@ -29,14 +29,14 @@ Python fundamentals course
 |Files|Consumption|:link:|:heavy_check_mark:|:x:|:x:|
 |Advanced OOP|Abstration|:link:|:heavy_check_mark:|:x:|:x:|
 |Advanced OOP|Dependency Inversion principle (DiP)|:link:|:heavy_check_mark:|:x:|:x:|
-|Tests|Unit tests|:link:|:x:|:x:|:x:|
-|Tests|About mark, fixture and tips|:link:|:x:|:x:|:x:|
-|Tests|Theory|:link:|:x:|:x:|:x:|
-|Tests|Advanced|:link:|:x:|:x:|:x:|
+|Tests|Unit tests|:link:|:heavy_check_mark:|:x:|:x:|
+|Tests|About mark, fixture and tips|:link:|:heavy_check_mark:|:x:|:x:|
+|Tests|Theory|:link:|:heavy_check_mark:|:x:|:x:|
+|Tests|Advanced|:link:|:heavy_check_mark:|:x:|:x:|
 |Tests|CI-CD|:link:|:x:|:x:|:x:|
-|Hype Libs|Pandas|:link:|:x:|:x:|:x:|
-|Hype Libs|Seaborn|:link:|:x:|:x:|:x:|
-|Hype Libs|Numpy|:link:|:x:|:x:|:x:|
+|Hype Libs|Pandas|:link:|:heavy_check_mark:|:x:|:x:|
+|Hype Libs|Seaborn|:link:|:heavy_check_mark:|:x:|:x:|
+|Hype Libs|Numpy|:link:|:heavy_check_mark:|:x:|:x:|
 |Hype Libs|PySpark|:link:|:x:|:x:|:x:|
 |Hype Libs|PyCaret|:link:|:x:|:x:|:x:|
 |Clean code|How to struct your code|:link:|:heavy_check_mark:|:x:|:x:|
